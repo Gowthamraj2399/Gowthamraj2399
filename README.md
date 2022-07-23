@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript, React**
 
-- 👨‍💻 All of my projects are available at [www.gowthamraj.dev](www.gowthamraj.dev)
+- 👨‍💻 All of my projects are available at [https://gowthamraj.dev/](https://gowthamraj.dev/)
 
 - 💬 Ask me about **Javascript, React, React Native, Tailwind Css**
 
