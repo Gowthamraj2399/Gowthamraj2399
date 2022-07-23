@@ -1,9 +1,9 @@
 ![MasterHead](https://www.jstips.co/assets/images/jstips-animation.gif)
 <h1 align="center">Hi , I'm Gowtham Raj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <h3 align="center">A JavaScript Enthusiast, Developer, Gamer.</h3>
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
-<p align="left"> <a href="https://twitter.com/@gowtham23091999" target="blank"><img src="https://img.shields.io/twitter/follow/gowtham23091999?logo=twitter&style=for-the-badge" alt="gowtham23091999" /></a> </p>
+[![Website](https://img.shields.io/website?label=GowthamRaj&style=for-the-badge&url=https://gowthamraj.dev)](https://gowthamraj.dev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/GowthamRaj?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://twitter.com/gowtham23091999)
 
 - 🌱 I’m currently learning **Javascript, React**
 
