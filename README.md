@@ -5,13 +5,13 @@
 [![Website](https://img.shields.io/website?label=GowthamRaj&style=for-the-badge&url=https://gowthamraj.dev)](https://gowthamraj.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/GowthamRaj?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://twitter.com/gowtham23091999)
 
-- 🌱 I’m currently learning **Javascript, React**
+- 🌱 I’m always learning about **Javascript, React**
 
-- 👨‍💻 All of my projects are available at [https://gowthamraj.dev/](https://gowthamraj.dev/)
+- 👨‍💻 Take a look at my portfolio [https://gowthamraj.dev/](https://gowthamraj.dev/)
 
-- 💬 Ask me about **Javascript, React, React Native, Tailwind Css**
+- 💬 We can discuss about **Javascript, React, React Native, Tailwind Css**
 
-- 📫 How to reach me **gowthamraj2399@gmail.com**
+- 📫 Feel free to reach me at **gowthamraj2399@gmail.com**
 
 - ⚡ Fun fact **There are around 700 separate programming languages and I chose JavaScript!**
 
