@@ -1,4 +1,4 @@
-![MasterHead](https://www.jstips.co/assets/images/jstips-animation.gif)
+
 <h1 align="center">Hi , I'm Gowtham Raj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <h3 align="center">A JavaScript Enthusiast, Developer, Gamer.</h3>
 
